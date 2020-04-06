@@ -1,5 +1,5 @@
 # better-engineer
-Tips to being a better engineer.
+Compiling a list of tips to be a better software engineer.
 
 ## Writing Code
 
@@ -14,7 +14,6 @@ Tips to being a better engineer.
 - Once again, keep it small! Makes [reverting](https://stackoverflow.com/questions/19032296/how-to-use-git-revert) easier.
 
 ## Communication
-
 
 ### Ego
 
